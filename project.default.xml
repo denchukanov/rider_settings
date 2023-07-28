@@ -1,0 +1,25 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="AutoImportSettings">
+        <option name="autoReloadType" value="SELECTIVE" />
+      </component>
+      <component name="Encoding" addBOMForNewFiles="with BOM under Windows, with no BOM otherwise" />
+      <component name="ProjectViewState">
+        <option name="autoscrollFromSource" value="true" />
+        <option name="autoscrollToSource" value="true" />
+        <option name="hideEmptyMiddlePackages" value="true" />
+        <option name="showLibraryContents" value="true" />
+      </component>
+      <component name="PropertiesComponent">
+        <property name="settings.editor.selected.configurable" value="consents" />
+      </component>
+      <component name="WindowStateProjectService">
+        <state x="1207" y="494" key="Rider.ProjectTemplateDialog.Size" timestamp="1689585791546">
+          <screen x="0" y="0" width="2560" height="1392" />
+        </state>
+        <state x="1207" y="494" key="Rider.ProjectTemplateDialog.Size/0.0.2560.1392" timestamp="1689585791546" />
+      </component>
+    </defaultProject>
+  </component>
+</application>

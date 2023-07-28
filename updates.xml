@@ -1,0 +1,11 @@
+<application>
+  <component name="UpdatesConfigurable">
+    <option name="LAST_BUILD_CHECKED" value="RD-231.9225.23" />
+    <option name="LAST_TIME_CHECKED" value="1690548263287" />
+    <pluginHosts>
+      <item value="https://plugins.zhile.io" />
+    </pluginHosts>
+    <option name="THIRD_PARTY_PLUGINS_ALLOWED" value="true" />
+    <option name="WHATS_NEW_SHOWN_FOR" value="231" />
+  </component>
+</application>

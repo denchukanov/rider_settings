@@ -1,0 +1,708 @@
+<application>
+  <component name="DynamicPluginEnabler">
+    <trackers>
+      <map>
+        <entry key="23VWTeJoHqFxdtzTMOCNBB8nhyH">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="23VcJChH6HeD4y6KOXlP5xkxARn">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="23VlOcImLJnoeP4wNWrMfqRL8SM">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="23VoInIeXUJvxvepJGruxdDercr">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="23bD4ELSUNqFy5PMv9aiNR8lpr7">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="23bEB7wq0YDTulNplcXxbPTEA2I">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="23bFZTO048AtShTUkohQD4wjr6c">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="23eFTfwNKCvs2A43zftdjMtEooH">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="23jtsIbIwa1KPc2ZvvCAQRXRNlK">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="23jtt6NYCfxNi1Wmyau954Goczo">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="23pSMTI5Nf2AeS8V3ShV7VPksZY">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="23v54YMBasFWBpHAIEvSf0LavS1">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="23vFFaW0CItY12igBUTpGELErIf">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="240tiIsY38E46XJ3x9bQIV1QVsn">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="240tjDmCnQmVLGPqypzlSiriKxY">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="24JhqTCAgOi3OEcQViTUJZrOahN">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="24bnPbIqRpkXheSSyMJ7442vZC3">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="24dePEHZ0Ffp611L52uqHEZpGpV">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="24pq7AgHNPpGODh4KTI5PKe0KfP">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="24rPr5WXm9qjtwVBzgRQgaT3gOD">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="24xWhQ2TsWMA7S7ElWQdmyIJ8sb">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="25ue9HpNsY7JXa2Rnei67yP0cdP">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="268w693l5NZQqZMALTuYXapwOQK">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="269T0qWGXRqRl7x9CdA4IMyGIxJ">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="269ijBmI7sbFN8DT0AFU4hwuYKH">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="26Bydc7vLCe8QpUXYH0oXTKEkvq">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="26C72NO2iwZTe2pFn5rS7yBGBIo">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="26CKSTVQ926139hwaf0incDWEHU">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="26EXQjf9Z7sGtYTinqWKizyS0Cs">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="26PWjdX8qUwc4aokQebqoyB1Gir">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="26QOW0gb4F1QFC32qr9kksx9H6z">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="26Z3UYYt7bI6vdUZhNzt2jOaLFL">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="26k1BhrWPOiOR9parSn5moFwB4N">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="26kQ4RX123xSHk5x7eh1sKNZS5a">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="26ktDHltFB8ezteOBqb7hAyw41J">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="26m5XtEffvFqfMDmWj1KPIcCQVs">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="26mCezg08e0QtiGxiU1A16B7BhL">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="26nFXvLIjyV786j1qB5MPszveMj">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="26nG1BsoUlOxNPmKCgbR4u77xkF">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="274EtlX4dTJnoIipFy4eceVZ8us">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="286suM0hMJlGvEtBdVxpbN9h1PL">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2878DXXW4uV78W5mLoHbw45FgkK">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="289GoQSwFq9j2yJthQM2lddg6UH">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="289O6WWSj96Oocf1Q0yba0dUep2">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="289T1aRcjqPVRuskpCM9SgCofWk">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="28TYAPA5acwpYY3j1OGztfGfQsu">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="28YnvuMLOlV0dfFNGPEM1KRqVin">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="28kkvmKUVGZ7VS5Mg7AiccMIfSf">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2A16RWIxTksxBfbCX2ZwTRUBhuw">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2ACH6wS1vxbzVKGVSFbufEmFxBg">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2Aq5ab11uPRlYCyG88PJHdZCBXx">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2AyoBqKdhxUtrIf1i8qg5qsqNMU">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2B1O91ogU7iRhzOjwrEd80GAcyf">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2B1dICTO69nBNe6cjgs20zZIczs">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2B414yrq6Vzj7hhO628Wesz0bXf">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2B4fK0MosoeFLw43zQPTnXRrlI6">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2BJRjjoPcEhNFJgDXzTPCIjtScP">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2BcCEbs9m0oNaaH6ppoyGBTcMIu">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2CNuedrlfra9aesI6Z6cB5pBEqT">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2CRXCn3gsk2eB30VgBcnECjZ0RJ">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2CpoMVW9V2oWwtPXJJ7vqCjfRHj">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2CqkeIPNeiyUk9VHJLUghiiXtB4">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2CtDlREVB1OIwvxJZ6yJlxAqtKS">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2Dqxst1qplZC3GhFMSw9BVPE3xI">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2E1TPLHCmHAJfjnGU9lWr7JVPdB">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2EAcC0PcoyC45z23CDaryelckXJ">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2ELcJq3ancV9HfLkk7PethT7Kzm">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2ERXJUKC3DpW7iDG3TrJTUbvugF">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2ERdS3PMCg7FevMNt9quUNLouXo">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2EUcOM41QOdRS6NMHB9IY0J3rT1">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2EX1Cf7clXc5IVAI2E1OPfNWGM1">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2EX9jTJTSGRewQbekOjuJdCicgJ">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2Ef02GPpl1OSNkKFEARMUsKvkwH">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2FiWqgI2bkiUif8V11S6QQ9ieyl">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2Fw1lmFlB5w3U4eA8CFojb4oeUS">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2GIobtbvzdiIyuW6SRIAZwlMjNM">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2GIpAd6MvvfKf2GkelihzpX8s5o">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2GIpV7HxeAXPz3p4ZGaUUCFOeEr">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2GIppM64BMt4pQfBm0oFQyjSv6H">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2GLpdW1D9IrMFE9dxQ9xtGyoRCk">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2GOuikyah6WZ5pZZiFDdQxAhoJP">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2GRhRogl0Ob4v6SxBWXhoboDsH2">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2GX4GgAkVXwmU5XZBLnJZurM6as">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2GcP2miu7CbVLU4GsrE4GCBjHD7">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2GqyIOITOmzoG4el2UEVJREd8wz">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2HIo4dfbuEurMjARowLieLaZzBV">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2HqT3bBDUtekBuQfOuG6FERNBkn">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2HqZSwUhhjAdU8cRzVGalovfywW">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2HqftRNdHEk9Cwv8DryS7PddQdL">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2IFnj5a2EUOlD1CV1IaaaXhLgqS">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2IFoTJhu2UxypoPAdRHzT3P0bC7">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2IGbfObchdD7HGnoCo8oaHaQV6t">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2IU0gQdgnwrTiLRz2ZkdQIvIyof">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+      </map>
+    </trackers>
+  </component>
+  <component name="NotRoamableUiSettings">
+    <option name="presentationModeIdeScale" value="1.3333334" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="AFTER.DISTRACTION.MODE.ARE_GUTTER_ICONS_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.ARE_LINE_NUMBERS_SHOWN" value="true" />
+    <property name="AFTER.DISTRACTION.MODE.EDITOR_TAB_PLACEMENT" value="1" />
+    <property name="AFTER.DISTRACTION.MODE.HIDE_TOOL_STRIPES" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.IS_FOLDING_OUTLINE_SHOWN" value="true" />
+    <property name="AFTER.DISTRACTION.MODE.IS_INDENT_GUIDES_SHOWN" value="true" />
+    <property name="AFTER.DISTRACTION.MODE.IS_RIGHT_MARGIN_SHOWN" value="true" />
+    <property name="AFTER.DISTRACTION.MODE.IS_WHITESPACES_SHOWN" value="true" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_BREADCRUMBS" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_MAIN_TOOLBAR" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_METHOD_SEPARATORS" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_NAVIGATION_BAR" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_NEW_MAIN_TOOLBAR" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_STATUS_BAR" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.ARE_GUTTER_ICONS_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.ARE_LINE_NUMBERS_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.EDITOR_TAB_PLACEMENT" value="1" />
+    <property name="BEFORE.DISTRACTION.MODE.HIDE_TOOL_STRIPES" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_FOLDING_OUTLINE_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_INDENT_GUIDES_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_RIGHT_MARGIN_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_WHITESPACES_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_BREADCRUMBS" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_MAIN_TOOLBAR" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_METHOD_SEPARATORS" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_NAVIGATION_BAR" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_NEW_MAIN_TOOLBAR" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_STATUS_BAR" value="true" />
+    <property name="DBE.Default.Dialect" value="" />
+    <property name="Debug.Allow.Typing" value="true" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="FindSplitterProportion" value="0.33032355" />
+    <property name="InstalledPluginsSearchHistory" value="file type&#10;file ty&#10;file&#10;fil" />
+    <property name="MarketplacePluginsSearchHistory" value="gitlab&#10;пшедф&#10;teamc&#10;team&#10;tea" />
+    <property name="RD.Init.Cfg.2" value="true" />
+    <property name="RD.Init.DialogShown.Ide" value="true" />
+    <property name="RD.Switch.Laf" value="true" />
+    <property name="Rider.Last.Started.IDE.Build" value="RD-213.7172.34" />
+    <property name="Rider.Pin.Item.Was.Executed" value="true" />
+    <property name="RiderUnitTestPanelSplitter.Horizontal" value="0.5" />
+    <property name="SettingsSearchHistory" value="ensure&#10;code vision&#10;file type" />
+    <property name="SqlStructureView.filterD.file.structure.state" value="true" />
+    <property name="TextEditorWithPreview.SplitterProportionKey" value="0.5960821" />
+    <property name="Tutorials.In.Recent.Projects.Disabled" value="true" />
+    <property name="appcds.runOnSecondStart" value="RD-213.7172.34-24b76711e127557e4d33ae4e12840cc74eb7b4f437ad73ecf1e17f7dad9a9ff8" />
+    <property name="bundled.plugins.list.saved.version" value="RD-213.7172.34" />
+    <property name="com.intellij.find.SearchReplaceComponent[,0,0,0x0,invalid,layout=java.awt.BorderLayout,alignmentX=0.0,alignmentY=0.0,border=com.intellij.ui.border.CustomLineBorder@10004ba,flags=9,maximumSize=,minimumSize=,preferredSize=]" value="docflow&#10;ЫФ" />
+    <property name="com.intellij.find.SearchReplaceComponent[,0,0,0x0,invalid,layout=java.awt.BorderLayout,alignmentX=0.0,alignmentY=0.0,border=com.intellij.ui.border.CustomLineBorder@a9b41a3,flags=9,maximumSize=,minimumSize=,preferredSize=]" value="SignTasksHandler" />
+    <property name="com.intellij.history.integration.ui.views.DirectoryHistoryDialog.0" value="300" />
+    <property name="com.jetbrains.rider.afterInstall.statsReportedBuilds" value="RD-213.6461.51&#10;RD-213.6775.4&#10;RD-213.7172.34" />
+    <property name="db.last.update.timestamp" value="1648821717393" />
+    <property name="debugger.immediate.window.in.watches.proportion.key" value="0.80172414" />
+    <property name="experimentalFeature.editor.reader.mode" value="false" />
+    <property name="file.gist.reindex.count" value="2010" />
+    <property name="fileTypeChangedCounter" value="2" />
+    <property name="fileTypeDetectors" value="com.intellij.database.vfs.DbStorageFileType$Detector:com.intellij.docker.dockerFile.DockerFileTypeDetector:com.intellij.ide.scratch.ScratchFileServiceImpl$Detector:com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector:com.jetbrains.nodejs.util.NodeFileTypeDetector$JavaScriptFileTypeDetector:com.jetbrains.nodejs.util.NodeFileTypeDetector$TypeScriptFileTypeDetector:com.jetbrains.rider.cpp.fileType.CppHeaderFileTypeDetector:org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector" />
+    <property name="find.popup.splitter" value="0.44154057" />
+    <property name="got.it.tooltip.rider.problems.view" value="1" />
+    <property name="ide.updates.whats.new.shown.for" value="213" />
+    <property name="ignoreUltimateEdition" value="true" />
+    <property name="immediate.window.eval.count.until.watch.got.it.hidden" value="5" />
+    <property name="last_open_solution_path" value="C:/git/learn/fsharp/first_dive" />
+    <property name="last_selected_template" value="Console Application|.NET / .NET Core" />
+    <property name="last_selected_template_parameters" value="Type=Empty;Language=C#;DockerSupport=Disabled;Framework=net6.0;" />
+    <property name="problems_view_was_already_shown" value="true" />
+    <property name="registry.to.advanced.settings.migration.build" value="RD-213.7172.34" />
+    <property name="settings.code.style.selected.tab.C#" value="Braces Layout" />
+    <property name="settings.code.style.selected.tab.EditorConfig" value="Wrapping and Braces" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+    <property name="toolwindow.stripes.buttons.info.shown" value="true" />
+    <property name="ts.lib.d.ts.version" value="4.5.4" />
+    <property name="vcs.history.diff.splitter.proportion" value="0.5342217" />
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "90ec950c-0891-4a6f-85e1-b607730d4e2f": "0.6363636",
+    "AFTER.DISTRACTION.MODE.ARE_GUTTER_ICONS_SHOWN": "false",
+    "AFTER.DISTRACTION.MODE.ARE_LINE_NUMBERS_SHOWN": "true",
+    "AFTER.DISTRACTION.MODE.EDITOR_TAB_PLACEMENT": "1",
+    "AFTER.DISTRACTION.MODE.HIDE_TOOL_STRIPES": "false",
+    "AFTER.DISTRACTION.MODE.IS_FOLDING_OUTLINE_SHOWN": "true",
+    "AFTER.DISTRACTION.MODE.IS_INDENT_GUIDES_SHOWN": "true",
+    "AFTER.DISTRACTION.MODE.IS_RIGHT_MARGIN_SHOWN": "true",
+    "AFTER.DISTRACTION.MODE.IS_WHITESPACES_SHOWN": "true",
+    "AFTER.DISTRACTION.MODE.SHOW_BREADCRUMBS": "false",
+    "AFTER.DISTRACTION.MODE.SHOW_MAIN_TOOLBAR": "true",
+    "AFTER.DISTRACTION.MODE.SHOW_METHOD_SEPARATORS": "false",
+    "AFTER.DISTRACTION.MODE.SHOW_NAVIGATION_BAR": "true",
+    "AFTER.DISTRACTION.MODE.SHOW_NEW_MAIN_TOOLBAR": "true",
+    "AFTER.DISTRACTION.MODE.SHOW_STATUS_BAR": "false",
+    "ATTACH_DIALOG_SELECTED_DEBUGGER": "MsClrAttachGroup",
+    "ATTACH_TREE_COMMAND_LINE_COLUMN_WIDTH": "185",
+    "ATTACH_TREE_DEBUGGERS_COLUMN_WIDTH": "186",
+    "ATTACH_TREE_EXECUTABLE_COLUMN_WIDTH": "253",
+    "ATTACH_TREE_PID_COLUMN_WIDTH": "174",
+    "AttachDialogCommandLine_Width": "202",
+    "AttachDialogDebuggers_Width": "203",
+    "AttachDialogExecutable_Width": "331",
+    "AttachDialogProcessId_Width": "199",
+    "AttachDialogProcessOwner_Width": "193",
+    "BEFORE.DISTRACTION.MODE.ARE_GUTTER_ICONS_SHOWN": "true",
+    "BEFORE.DISTRACTION.MODE.ARE_LINE_NUMBERS_SHOWN": "true",
+    "BEFORE.DISTRACTION.MODE.EDITOR_TAB_PLACEMENT": "1",
+    "BEFORE.DISTRACTION.MODE.HIDE_TOOL_STRIPES": "false",
+    "BEFORE.DISTRACTION.MODE.IS_FOLDING_OUTLINE_SHOWN": "true",
+    "BEFORE.DISTRACTION.MODE.IS_INDENT_GUIDES_SHOWN": "true",
+    "BEFORE.DISTRACTION.MODE.IS_RIGHT_MARGIN_SHOWN": "true",
+    "BEFORE.DISTRACTION.MODE.IS_WHITESPACES_SHOWN": "true",
+    "BEFORE.DISTRACTION.MODE.SHOW_BREADCRUMBS": "true",
+    "BEFORE.DISTRACTION.MODE.SHOW_MAIN_TOOLBAR": "true",
+    "BEFORE.DISTRACTION.MODE.SHOW_METHOD_SEPARATORS": "true",
+    "BEFORE.DISTRACTION.MODE.SHOW_NAVIGATION_BAR": "false",
+    "BEFORE.DISTRACTION.MODE.SHOW_NEW_MAIN_TOOLBAR": "false",
+    "BEFORE.DISTRACTION.MODE.SHOW_STATUS_BAR": "true",
+    "CWM_LOGGING_VERSION": "1",
+    "DBE.Default.Dialect": "TSQL",
+    "DISTRACTION.MODE.ENTER.VALUE": "true",
+    "Debug.Allow.Typing": "true",
+    "ExpandBeforeRunStepsPanel": "true",
+    "FindSplitterProportion": "0.33001107",
+    "InstalledPluginsSearchHistory": "Setting Repos\nSetting Repo\nSetting RE\nSetting\nSettin",
+    "KEYMAP": "go to cha\nsplitt\nsplitter\nrecent",
+    "Majera.CodeReview.GitLab.gitlab.last.change.filter.type": "CompareVersions",
+    "Majera.CodeReview.GitLab.next.rate.reminder.time": "1686641452066",
+    "Majera.CodeReview.GitLab.pull.request.details.inner.splitter.proportion_PTCS_FirstProportionKey": "0.34322897",
+    "Majera.CodeReview.GitLab.pull.request.details.inner.splitter.proportion_PTCS_LastProportionKey": "0.0",
+    "Markdown Split EditorLayout": "Editor only",
+    "MarketplacePluginsSearchHistory": "Settings Sync\nIDE Settings Sync\nprotobuf\nprotobu\nprotob",
+    "PluginConfigurable.selectionTab": "1",
+    "RD.Init.Cfg.2": "true",
+    "RD.Init.DialogShown.Ide": "true",
+    "Rider.Last.Started.IDE.Build": "RD-231.9225.23",
+    "Rider.Pin.Item.Was.Executed": "true",
+    "RiderNuGetSourcesPanel.Splitter": "0.46615252",
+    "RiderUnitTestPanelSplitter.Horizontal": "0.5",
+    "RunOnceActivity.se.text.search": "true",
+    "SettingsSearchHistory": "Setting Repos\nIDE Settings Sync\nprotocol\ngitl\nlive te",
+    "SqlStructureView.filterD.file.structure.state": "true",
+    "TeamCity.ToolWindow.Changes.splitter.proportion": "0.39242685",
+    "TextEditorWithPreview.SplitterProportionKey": "0.79967296",
+    "Tutorials.In.Recent.Projects.Disabled": "true",
+    "appcds.runOnSecondStart": "RD-231.9225.23-7ae07f32db9d8860577cd1a1c0b3199954c102daaea57b208fa66fef04f3ba6d",
+    "bundled.plugins.list.saved.version": "RD-231.9225.23",
+    "com.intellij.find.SearchReplaceComponent[,0,0,0x0,invalid,layout=java.awt.BorderLayout,alignmentX=0.0,alignmentY=0.0,border=com.intellij.ui.border.CustomLineBorder@1d4f4411,flags=9,maximumSize=,minimumSize=,preferredSize=]": "Ge",
+    "com.intellij.find.SearchReplaceComponent[,0,0,0x0,invalid,layout=java.awt.BorderLayout,alignmentX=0.0,alignmentY=0.0,border=com.intellij.ui.border.CustomLineBorder@3a4d4fbf,flags=9,maximumSize=,minimumSize=,preferredSize=]": "НомОсн",
+    "com.intellij.find.SearchReplaceComponent[,0,0,0x0,invalid,layout=java.awt.BorderLayout,alignmentX=0.0,alignmentY=0.0,border=com.intellij.ui.border.CustomLineBorder@3b0c3f5e,flags=9,maximumSize=,minimumSize=,preferredSize=]": "ДатаДокПТ",
+    "com.intellij.find.SearchReplaceComponent[,0,0,0x0,invalid,layout=java.awt.BorderLayout,alignmentX=0.0,alignmentY=0.0,border=com.intellij.ui.border.CustomLineBorder@f386d3a,flags=9,maximumSize=,minimumSize=,preferredSize=]": "common.standa\n.standa\nstanda",
+    "com.intellij.history.integration.ui.views.DirectoryHistoryDialog.0": "300",
+    "com.intellij.history.integration.ui.views.FileHistoryDialog.0": "300",
+    "com.intellij.history.integration.ui.views.FileHistoryDialog.1": "800",
+    "com.intellij.ide.navigationToolbar.experimental.showSearchEverywhereHotKeyTip": "false",
+    "com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2.splitter": "0.3555328",
+    "db.last.update.timestamp": "1650557227629",
+    "debugger.immediate.window.in.watches.proportion.key": "0.62990654",
+    "debugger.layout.watches.defaultThreadsProportion": "0.49689165",
+    "evlsprt3.221": "22",
+    "evlsprt3.222": "24",
+    "evlsprt3.223": "26",
+    "evlsprt3.231": "24",
+    "experimental.ui.used.once": "true",
+    "experimentalFeature.editor.reader.mode": "false",
+    "file.gist.reindex.count": "2449",
+    "fileTypeChangedCounter": "4",
+    "find.popup.splitter": "0.43764892",
+    "fontSizeToResetConsole": "15.0",
+    "fontSizeToResetEditor": "15.0",
+    "got.it.tooltip.database.schema.control.got.it": "1",
+    "got.it.tooltip.run.toolbar.gotIt": "1",
+    "got.it.tooltip.show.diff.in.editor": "1",
+    "got.it.tooltip.web.preview.reload.on.save": "1",
+    "ide.widget.toolbar.first.inclusion": "2",
+    "ide.widget.toolbar.rollback.availability": "true",
+    "ideavim.statistics.timestamp": "1659686764524",
+    "ignoreUltimateEdition": "true",
+    "immediate.window.eval.count.until.watch.got.it.hidden": "77",
+    "last_open_solution_path": "C:/git/moedelo/md-consul/settings",
+    "last_selected_template": "Console Application|.NET / .NET Core",
+    "last_selected_template_parameters": "TargetFrameworkOverride=net7.0;Type=WPF Application;Language=C#;DockerSupport=Disabled;Auth=Individual;SDK=7.0;Framework=net6.0;",
+    "migrated.non.roamable.values.from.general.settings": "true",
+    "previousColorScheme": "_@user_Visual Studio Dark",
+    "registry.to.advanced.settings.migration.build": "RD-231.9225.23",
+    "resxEditorSplitter": "0.2431579",
+    "rider.whats.new.should.shown": "1",
+    "selected.color.option.type": "ReSharper.CPP_TEMPLATE_PARAMETER_IDENTIFIER",
+    "settings.code.style.selected.tab.C#": "Tabs, Indents, Alignment",
+    "settings.code.style.selected.tab.SQL": "Tabs and Indents",
+    "tasks.pass.word.conversion.enforced": "true",
+    "toolwindow.stripes.buttons.info.shown": "true",
+    "ts.lib.d.ts.version": "4.8.4",
+    "vcs.history.diff.splitter.proportion": "0.16840418"
+  },
+  "keyToStringList": {
+    "com.jetbrains.rider.afterInstall.statsReportedBuilds": [
+      "RD-221.5080.236",
+      "RD-221.5591.20",
+      "RD-221.5787.36",
+      "RD-222.3345.139",
+      "RD-222.3962.23",
+      "RD-222.4167.23",
+      "RD-222.4459.9",
+      "RD-223.7571.232",
+      "RD-223.8214.53",
+      "RD-223.8617.53",
+      "RD-231.8109.212",
+      "RD-231.8770.54",
+      "RD-231.9011.39",
+      "RD-231.9161.46",
+      "RD-231.9225.23"
+    ],
+    "file.chooser.recent.files": [
+      "C:/git/my/github/configs/ide/Rider",
+      "C:/git/my/github/configs/ide/Rider/global_shared.DotSettings"
+    ],
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "com.jetbrains.rider.cpp.fileType.CppHeaderFileTypeDetector",
+      "com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector",
+      "com.intellij.database.vfs.DbStorageFileType$Detector",
+      "com.intellij.docker.dockerFile.DockerFileTypeDetector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$JavaScriptFileTypeDetector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$TypeScriptFileTypeDetector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+  <component name="TeamCityHistory">
+    <option name="HISTORY" value="https://ci.moedelo.org&amp;^%$#@chukanov" />
+  </component>
+  <component name="ToolbarSettingsService">
+    <option name="SHOW_NEW_MAIN_TOOLBAR" value="true" />
+  </component>
+</application>

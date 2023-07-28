@@ -1,0 +1,48 @@
+<scheme name="Chukanov - VSDark" version="142" parent_scheme="Visual Studio Dark">
+  <option name="FONT_SCALE" value="1.0" />
+  <metaInfo>
+    <property name="created">2020-09-29T19:15:48</property>
+    <property name="description" />
+    <property name="ide">Rider</property>
+    <property name="ideVersion">2020.2.3.0.0</property>
+    <property name="modified">2020-12-14T23:41:21</property>
+    <property name="originalScheme">Chukanof</property>
+    <property name="vendorMail" />
+    <property name="vendorName" />
+    <property name="vendorUrl">http://</property>
+    <property name="version">0.1</property>
+  </metaInfo>
+  <option name="LINE_SPACING" value="1.05" />
+  <option name="EDITOR_FONT_SIZE" value="16" />
+  <option name="EDITOR_FONT_NAME" value="Consolas" />
+  <attributes>
+    <option name="ReSharper.CSHARP_DELEGATE_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="267262" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="ReSharper.CSHARP_ENUM_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="ff8600" />
+      </value>
+    </option>
+    <option name="ReSharper.CSHARP_INTERFACE_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="ff3c6a" />
+      </value>
+    </option>
+    <option name="ReSharper.CSHARP_STRUCT_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="4ec9b0" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="ReSharper.CSHARP_TYPE_PARAMETER_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="b70000" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
