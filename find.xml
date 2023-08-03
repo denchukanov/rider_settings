@@ -1,12 +1,12 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Project 'Moedelo.ERpt'" />
-    <option name="defaultScopeName" value="Project 'Moedelo.ERpt'" />
+    <option name="customScope" value="Solution" />
+    <option name="defaultScopeName" value="Solution" />
     <option name="showResultsInSeparateView" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'Moedelo.ERpt'" />
+    <option name="SEARCH_SCOPE" value="Solution" />
     <mask>*.js</mask>
     <mask>*.cs</mask>
     <mask>*.sql</mask>
